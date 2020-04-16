@@ -1,0 +1,2 @@
+# EpicStarterMgr
+通过steam启动epic的小程序,这样可以在steam里面看到游玩时长，还可以让steam好友看到你正在玩什么。
